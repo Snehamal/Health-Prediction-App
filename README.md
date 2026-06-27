@@ -172,6 +172,6 @@ The predictions and AI-generated remarks should not be considered medical advice
 
 ## 👨‍💻 Author
 
-**Rik**
+**Sneha**
 
 Built as a Machine Learning and AI integration project using Python, Streamlit, SQLite, Random Forest, and the Groq API.
